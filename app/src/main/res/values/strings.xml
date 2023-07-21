@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string name="phone">phone</string>
+    <string name="message">message</string>
+    <string name="load">load</string>
+    <string name="save">save</string>
+</resources>
